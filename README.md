@@ -14,4 +14,6 @@
 
 7.The output file is stored also in the drive
 
-8.Before executing upload all the required files to your drive and the path name of all related files.
+8.Before executing Download all the zip files and upload it to your drive.
+
+9.Change the path name to your path name.
